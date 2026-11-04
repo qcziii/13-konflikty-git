@@ -1,0 +1,13 @@
+# Materiały prowadzącego: rozwiązania, skrypty rozwiązań, odpowiedzi. Nie publikować!
+rozwiazania/
+
+# Piaskownice ćwiczeń tworzone przez setup.sh (osobne repozytoria gita)
+cwiczenia/*/repo/
+cwiczenia/*/origin.git/
+cwiczenia/*/.check/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
